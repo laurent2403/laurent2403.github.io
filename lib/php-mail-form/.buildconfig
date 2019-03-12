@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/laurent/.cache/gnome-builder/install/php-mail-form/host
+app-id=
+postbuild=
+prebuild=
+default=true
